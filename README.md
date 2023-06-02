@@ -6,7 +6,8 @@
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"></a>
 </div>
-### :프레임워크 & 라이브러리
+
+### :저는 이런 라이브러리를 다룰 수 있어요 !
 <div>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"></a>
@@ -14,6 +15,7 @@
   <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white"></a>
 </div>
 
+### :저의 활동입니다 !
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgnsrb227&show_icons=true&theme=radical)
 
 깃블로그 : https://dlgnsrb227.github.io/web2023/
