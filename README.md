@@ -18,4 +18,6 @@
   <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white"></a>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgnsrb227&show_icons=true&theme=radical)
+
 깃블로그 : https://dlgnsrb227.github.io/web2023/
