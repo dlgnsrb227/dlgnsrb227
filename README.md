@@ -32,7 +32,7 @@
 
 -------------------------------------------
 
-### :저의 활동입니다 !
+### 저의 활동입니다 !
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgnsrb227&show_icons=true&theme=radical)
 
 깃블로그 : https://dlgnsrb227.github.io/web2023/
