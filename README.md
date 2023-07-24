@@ -19,7 +19,9 @@
 
 ----------------------------------------
 ## 저의 작업물입니다 !
-##### <a href="https://github.com/dlgnsrb227/portfolio-next">포트폴리오 확인하기</a>
+### 포트폴리오 보러가기 <a href="https://github.com/dlgnsrb227/portfolio-next">https://github.com/dlgnsrb227/portfolio-next</a>
+
+-------------------------------------------
 
 ### :저의 활동입니다 !
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgnsrb227&show_icons=true&theme=radical)
